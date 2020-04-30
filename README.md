@@ -1,0 +1,8 @@
+# online-shoppers-intention-to-purchase
+capstone project - predicting online shoppers intention to buy. model will predict whether a session will end up in purchase or not.
+########
+Consumers shopping activities on the internet turn out to be more important every year. Although the increase of e-commerce usage over the last few years has created potential in the market, most of the visitors still do not complete their online shopping process. This leads the online retailers the need for solutions to prevent the loss of their revenues. 
+The aim of this study is to evaluate the actions taken by the visitors on ecommerce environment in real time and predicting the visitor’s shopping intent. The extracted features from page view data kept track during the visit along with some session and user information are fed to machine learning classification methods to build a model. 
+Oversampling and feature selection pre processing steps are used to enhance the performance and scalability of the classification methods. The results show that Logistic Regression produces significantly higher accuracy and Recall than Random Forest and Support Vector Machines. 
+Online retailers are suggested to provide schemes and offers for users who have been predicted as special buyers. In this manner, revenue generation of the firm can increase many folds. 
+Combining them with session information-based features that possess unique information about the purchasing interest improves the success rate of the system and help in providing the relevant discounts or offers to the true customers who contributed to the increase in the overall revenue.
